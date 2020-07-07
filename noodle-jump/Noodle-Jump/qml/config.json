@@ -1,0 +1,8 @@
+{
+  "title": "Noodle Jump",
+  "identifier": "com.yourcompany.wizardEVP.Noodle-jump",
+  "orientation": "landscape",
+  "versioncode": 1,
+  "versionname": "1.0.0",
+  "stage": "test"
+}
